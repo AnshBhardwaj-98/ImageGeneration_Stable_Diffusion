@@ -1,0 +1,11 @@
+torch
+matplotlib
+diffusers 
+transformers
+invisible_watermark 
+accelerate 
+safetensors
+streamlit
+PIL
+
+
